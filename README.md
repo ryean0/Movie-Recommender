@@ -1,4 +1,4 @@
-Final Report for Movie Recommendations (Linear Model)
+Creating a Movie Recommender using Linear Regression
 ================
 
 ## Introduction
